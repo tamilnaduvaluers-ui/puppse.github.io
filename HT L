@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Puppse | Property Valuation & Real Estate</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>PUPPSE</h1>
+  <p>Property Valuation • Consultants • Construction • Real Estate</p>
+</header>
+
+<section class="hero">
+  <h2>Professional Property Valuation & Consulting</h2>
+  <p>
+    Reliable valuation, consulting, construction advisory, and real estate
+    solutions delivered with accuracy and integrity.
+  </p>
+  <a class="whatsapp-btn" 
+     href="https://wa.me/919442393333" 
+     target="_blank">
+     Chat on WhatsApp
+  </a>
+</section>
+
+<section class="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Property Valuation & Appraisal</li>
+    <li>Real Estate Consulting</li>
+    <li>Construction Planning & Advisory</li>
+    <li>Market Analysis & Property Advisory</li>
+  </ul>
+</section>
+
+<section class="about">
+  <h2>About Puppse</h2>
+  <p>
+    Puppse is a professional firm specializing in property valuation,
+    consulting, construction guidance, and real estate services.
+    We are committed to transparency, technical accuracy, and long-term client trust.
+  </p>
+</section>
+
+<section class="contact">
+  <h2>Contact</h2>
+  <p><strong>WhatsApp:</strong> +91 94423 93333</p>
+  <p><strong>Email:</strong> puppse@gmail.com</p>
+  <p><strong>Location:</strong> Tamil Nadu, India</p>
+</section>
+
+<footer>
+  <p>© 2026 Puppse. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
